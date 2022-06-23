@@ -1,1 +1,8 @@
-Replace this with a list of your favorite things.
+# List of things
+- Chicken
+- Piggs
+- Alpackas
+
+1. Food
+2. Soil restoration
+
